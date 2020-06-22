@@ -1,0 +1,6 @@
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Common\bin\Debug\Common.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Common\bin\Debug\Common.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Common\obj\Debug\Common.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Common\obj\Debug\Common.pdb

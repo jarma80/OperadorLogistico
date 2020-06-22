@@ -1,0 +1,11 @@
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\bin\Debug\Domain.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\bin\Debug\Domain.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\bin\Debug\DataAccess.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\bin\Debug\DataAccess.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\obj\Debug\Domain.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\obj\Debug\Domain.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\bin\Debug\Common.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\Domain\bin\Debug\Common.pdb

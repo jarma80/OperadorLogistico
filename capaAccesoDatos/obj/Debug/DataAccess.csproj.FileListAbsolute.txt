@@ -1,0 +1,9 @@
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\bin\Debug\DataAccess.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\bin\Debug\DataAccess.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\obj\Debug\DataAccess.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\obj\Debug\DataAccess.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\bin\Debug\Common.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\bin\Debug\Common.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\capaAccesoDatos\obj\Debug\DataAccess.csproj.CopyComplete

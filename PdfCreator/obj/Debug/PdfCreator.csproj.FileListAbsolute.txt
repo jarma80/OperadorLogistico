@@ -1,0 +1,8 @@
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\bin\Debug\PdfCreator.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\bin\Debug\PdfCreator.pdb
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\bin\Debug\iTextSharp.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\obj\Debug\PdfCreator.csprojAssemblyReference.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\obj\Debug\PdfCreator.csproj.CoreCompileInputs.cache
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\obj\Debug\PdfCreator.csproj.CopyComplete
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\obj\Debug\PdfCreator.dll
+C:\Users\3PX65LA_RS5\source\repos\WebAppOperadorLogistico\PdfCreator\obj\Debug\PdfCreator.pdb
